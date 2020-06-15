@@ -1,0 +1,43 @@
+body{
+    background-color: green;
+    color:#fff;
+    
+}
+
+.center{
+    text-align: center;
+    
+}
+
+.center h1{
+    background-color: rgba(50,50,50,0.5);
+}
+.new{
+    text-align: left;
+    color:black;
+    margin-bottom: 30px;
+    font-size: 2em;
+}
+
+.new h1{
+    background-color: rgba(50,50,50,0.5);
+}
+.btn1{
+    background-color: #f63;
+    margin: 0 auto;
+    margin-top: -3px;
+    font-size: 20px;
+    padding: 20px;
+    color: #fff;
+}
+
+.btn2{
+    background-color: firebrick;
+    margin: 0 auto;
+    margin-top: -3px;
+    font-size: 20px;
+    padding: 20px;
+    color: #fff;
+}
+
+

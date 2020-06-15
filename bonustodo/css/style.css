@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: beigel;
+    font-family: 'EB Garamond', serif;
+}
+
+h1{
+    margin: 40px;
+    
+}
+
+#userinput{
+    width:350px;
+    height: 35px;
+    display: inline;
+    
+}
+
+.btn{
+    margin: 20px 5px;
+}
+
+.form-control{
+    margin: 0 auto;
+}
+
+ul{
+    list-style-type: none;
+}
